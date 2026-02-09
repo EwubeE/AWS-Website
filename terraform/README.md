@@ -1,5 +1,8 @@
-# Deployment Guide
-Ensure AWS CLI and Terraform are installed on your machine.
+# AWS Static Website
+This project demonstrates the successful deployment of a highly available and globally 
+accessible static webpage using AWS services. It integrates Amazon S3 for storage, Amazon 
+CloudFront for global content delivery, OAI for secure access and Terraform as IaC for 
+automated, consistent and reusable deployment of the infrastructure
 
 ### Setting up AWS Account
 1. Open a terminal or command prompt on your console and navigate to the project directory
